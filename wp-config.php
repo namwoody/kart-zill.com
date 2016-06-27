@@ -65,6 +65,8 @@ define('NONCE_SALT',       'i2&KioFM;$l-H~,I^vxHb#o)A.s|N(yi}.fGuqAa-R9-+$=/mOi+
  */
 $table_prefix  = 'wp_';
 
+define('FS_METHOD','direct');
+
 /**
  * For developers: WordPress debugging mode.
  *
