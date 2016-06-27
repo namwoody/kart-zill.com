@@ -1,4 +1,4 @@
-wp.config.php
-wp.config-sample.php
-wp-admin
+#wp.config.php
+#wp.config-sample.php
+
 /bower_components
