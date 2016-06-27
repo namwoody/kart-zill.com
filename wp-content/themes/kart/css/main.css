@@ -6640,10 +6640,8 @@ span.price {
   border-left: none;
   position: relative;
   padding-bottom: 20px;
-  margin-bottom: 20px; }
-
-#product-thumbnails img {
-  min-height: 220px; }
+  margin-bottom: 20px;
+  min-height: 350px; }
 
 #product-thumbnails a {
   color: #000; }
