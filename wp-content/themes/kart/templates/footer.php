@@ -8,7 +8,7 @@
 <!-- company info subscriber -->
 <div class="container">
 	<div class="row">
-		<div class="col-md-4">
+		<div class="col-md-4" id="newsletter">
 			
       <h2>Subscriber</h2>
       <?php

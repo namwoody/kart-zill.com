@@ -1,6 +1,5 @@
 
-
-	<?php
+<?php
 		/**
 		 * woocommerce_before_main_content hook.
 		 *
@@ -11,7 +10,7 @@
 	?>
 
 
-
+<!-- menu section -->
         <div class="col-md-3" id="categories">
          <h3> Categories</h3>
    
@@ -22,19 +21,13 @@ wp_nav_menu( array(
 ) );
 ?>
         </div>
+<!-- end menu section -->
 
-
-
+<!-- slider section -->
    <div class="col-md-9" id="slider">
-
-   <?php 
-    echo do_shortcode("[metaslider id=32]"); 
-?>
-
-
-
+ <?php echo do_shortcode("[metaslider id=32]"); ?>
   </div>
-
+<!-- end slider section -->
 
 
 
