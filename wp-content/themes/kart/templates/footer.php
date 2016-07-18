@@ -38,7 +38,23 @@ echo $widgetNL->widget(array('form' => 1, 'form_type' => 'php'));
 
 
 <!-- company end subscriber  -->
+<div class="container">
+<div class="row">
+  <div class="col-md-4">
+    
+  </div>
+ <div class="col-md-4">
+    
+  </div>
+  <div class="col-md-4">
+    
+  </div>
 
+
+</div>
+
+
+</div>
 
 
 
