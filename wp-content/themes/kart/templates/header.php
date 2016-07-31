@@ -2,14 +2,14 @@
 
 <div class="top-bar">
   <div class="row">
-   <div class="col-md-8">
+   <div class="col-md-4">
       
    
 
    </div>      
  
 
-    <div class="col-md-4 pull-right">
+    <div class="col-md-8 pull-right">
       <ul id="top-menu">
    <?php  wp_list_pages('title_li=&exclude=105,103');?>
    <ul>
@@ -23,6 +23,8 @@
 <header class="banner">
   <div class="container">
    <div class="row">
+  
+  <!-- logo section -->
   <div class="col-md-4" id="logo">
     <a class="brand" href="<?= esc_url(home_url('/')); ?>">
 
@@ -31,6 +33,8 @@
 
     </a>
 </div><!-- end col-md-4 -->
+
+
 
 
    <div class="col-md-8 text-right" id="top-navigation">
