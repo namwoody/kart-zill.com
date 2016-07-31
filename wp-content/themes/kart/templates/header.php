@@ -2,14 +2,14 @@
 
 <div class="top-bar">
   <div class="row">
-   <div class="col-md-4">
+   <div class="col-md-6">
       
    
 
    </div>      
  
 
-    <div class="col-md-8 pull-right">
+    <div class="col-md-6 pull-right">
       <ul id="top-menu">
    <?php  wp_list_pages('title_li=&exclude=105,103');?>
    <ul>
